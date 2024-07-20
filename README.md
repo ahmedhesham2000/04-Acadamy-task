@@ -81,6 +81,17 @@ Check out the live demo of the project [here](https://drive.google.com/file/d/1w
 
 - Describe any additional features or enhancements implemented beyond the initial requirements.
 
+## Challenges and Learnings
+
+### Animation
+
+- The animation was initially difficult to implement, but once learned, it became easy to use.
+
+### Backend
+
+- The logic of navigating back took a short time to understand but was successfully implemented.
+
+
 ## Conclusion
 
 This project aims to demonstrate your ability to build a Flutter app from design to implementation, focusing on dynamic user registration using a provided API. Follow the steps carefully, ensure you meet all requirements, and don't hesitate to add your own flair with extra features.
