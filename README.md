@@ -18,6 +18,9 @@ This project is divided into several key parts:
 
 ## Getting Started
 
+## Demo
+
+Check out the live demo of the project [here](https://drive.google.com/file/d/1w0_JdQCGlEO5lTLYtNpx4c2sbI5HESmF/view?usp=sharing) 
 ### Prerequisites
 
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
@@ -87,3 +90,4 @@ This project aims to demonstrate your ability to build a Flutter app from design
 Thank you for your hard work and dedication. Good luck, and happy coding!
 
 ---
+
